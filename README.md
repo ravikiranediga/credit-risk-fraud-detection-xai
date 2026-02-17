@@ -87,30 +87,6 @@ UI: Streamlit
 
 Model Persistence: Joblib
 
-📂 Project Structure
-credit-risk-xai/
-│
-├── app/
-│   └── main.py                # Streamlit UI
-│
-├── src/
-│   ├── data_processing.py     # Data cleaning & scaling
-│   ├── train_models.py        # Model training & evaluation
-│   └── explainability.py      # SHAP explainability (offline)
-│
-├── data/
-│   ├── raw/                   # Original dataset
-│   └── processed/             # Cleaned & scaled data
-│
-├── models/
-│   ├── credit_model.pkl
-│   ├── scaler.pkl
-│   └── feature_columns.pkl
-│
-├── outputs/
-│   └── shap_summary.png       # Saved SHAP plots
-│
-└── README.md
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
@@ -175,5 +151,6 @@ GitHub: https://github.com/ravikiranediga
 LinkedIn: https://www.linkedin.com/in/ravikiranediga
 
 ⭐ Final Note
+
 
 This project demonstrates end-to-end ownership, explainable AI, and real-world ML deployment thinking, making it suitable as a major project for interviews and professional portfolios.
