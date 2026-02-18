@@ -90,7 +90,7 @@ Model Persistence: Joblib
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/<ravikiranediga>/credit-risk-xai.git
+git clone https://github.com/ravikiranediga/credit-risk-xai.git
 cd credit-risk-xai
 
 2️⃣ Create Virtual Environment
@@ -154,3 +154,4 @@ LinkedIn: https://www.linkedin.com/in/ravikiranediga
 
 
 This project demonstrates end-to-end ownership, explainable AI, and real-world ML deployment thinking, making it suitable as a major project for interviews and professional portfolios.
+
