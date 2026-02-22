@@ -6,3 +6,5 @@ scikit-learn
 streamlit
 joblib
 altair==4.2.2
+filetype==1.2.0
+
