@@ -152,6 +152,5 @@ LinkedIn: https://www.linkedin.com/in/ravikiranediga
 
 ⭐ Final Note
 
-
 This project demonstrates end-to-end ownership, explainable AI, and real-world ML deployment thinking, making it suitable as a major project for interviews and professional portfolios.
 
